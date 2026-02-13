@@ -1,63 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=280&section=header&text=Eron%20Jacob&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electronic%20%26%20Computer%20Engineering%20Student&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Building+Robotics+and+Embedded+Systems;Coding+in+Python,+C,+and+MATLAB;Exploring+AI,+ML,+and+Cybersecurity;Distinction+Student+@+Uni+of+Kent" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+Developer;I+Build+Awesome+Stuff;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eron-jacob-buenaflor-37a4a02bb)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:eronjacobbuenaflor@gmail.com)
-
+  <h3>🚀 About Me</h3>
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I am a **BEng Electronic and Computer Engineering** student at the **University of Kent**, specializing in the intersection of hardware and software. [cite_start]I have achieved **Distinctions** in all academic stages (Foundation, Year 1, Year 2)[cite: 9].
-
-* 🔭 I’m currently working on **Advanced Robotics & AI Systems**
-* 🌱 I’m deeply interested in **Embedded Systems, PCB Design, and Computer Vision**
-* [cite_start]💼 Professional experience: Internships at **Kuwait Finance House** (Bank Operations) and **Code Experts IT Solutions** (ERP/Web Dev)[cite: 49, 56].
-* 🌍 Based in: **Canterbury, UK** & **Bahrain**
-
----
-
-### 🛠️ Technical Stack
-
-I bridge the gap between low-level engineering and high-level application development.
+- 🔭 I’m currently working on **Open Source Projects**
+- 🌱 I’m currently learning **Advanced React & Cloud Architecture**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 💬 Ask me about **JavaScript, Python, and Tech**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **I can center a div!**
 
 <div align="center">
-
-| **Core Languages** | **Embedded & Hardware** | **Web & Cloud** | **Tools & AI** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,java" /> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" /> <br/> *VHDL, Fusion 360* | <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,aws,azure" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,tensorflow" /> |
-
+  <h3>🛠️ Languages and Tools</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode,nodejs,mongodb,mysql,aws,docker&perline=10" />
+    </a>
+  </p>
 </div>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **UK Nuclear Simulation Platform** | `C` `Systems Programming` `Mutex` | [cite_start]A multi-component simulator using thread-safe client management, mutex synchronization, and encrypted Caesar cipher communication [cite: 35-39]. |
-| **Matlab Robotic Arm (AI/ML)** | `MATLAB` `Inverse Kinematics` | [cite_start]Developed kinematic solvers for 3-DOF and 6-DOF Stanford arms with 2D/3D visualization and SNN modeling [cite: 40-43]. |
-| **Human Presence Recorder** | `Python` `OpenCV` `Arduino` | [cite_start]Real-time motion tracking system for face detection and counting using webcam analysis [cite: 26-28]. |
-| **Mechanical Gripper System** | `Fusion 360` `PCB Design` | [cite_start]Designed and fabricated a robotic gripper with servo motor integration and force sensors for object detection [cite: 22-25]. |
-| **Makati Garage Website** | `React` `Firebase` `HTML/CSS` | [cite_start]Autoshop booking system with Cloud Firestore integration and secure user authentication [cite: 19-21]. |
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" height="180" alt="stats graph" />
+  <h3>🔥 My Stats</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
@@ -65,8 +39,19 @@ I bridge the gap between low-level engineering and high-level application develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=0D1117" alt="streak graph" />
 </div>
 
----
+<div align="center">
+  <h3>🤝 Connect with me</h3>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 <div align="center">
-  [cite_start]<i>"Driven to become the best computer engineering student I possibly can." [cite: 14]</i>
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
