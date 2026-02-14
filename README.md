@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20👋,%20I'm%20Eron%20Jacob&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Electronic%20&%20Computer%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=62" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Eron%20Jacob&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Electronic%20%26%20Computer%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Open+Source+Projects;Passionate+about+AI%2C+ML%2C+and+LLMs;Locked+in+with+Engineering+Work;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Passionate+Electronic+Engineer;AI+%2F+ML+%2F+LLM+Enthusiast;Open+Source+Contributor;Locked+in+on+Innovation" alt="Typing Effect" />
   </a>
 </div>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eb546&theme=flat&no-frame=true&margin-w=15" alt="eb546 trophies" />
-  </a>
-</p>
 
 ---
 
@@ -18,35 +12,31 @@
   <tr>
     <td width="55%" valign="top">
       
-### 👨‍💻 About Me
+  ## 📖 About Me
+  A passionate **Electronic and Computer Engineer** with a strong software background from the Philippines. I specialize in bridging the gap between hardware and intelligent software.
 
-- 🔭 I’m currently working on **an Open Source Project**
-- 🌱 I’m currently learning **AI, ML, LLM, Engineering**
-- 👯 I’m looking to collaborate on **Money-Making AI Platforms**
-- 🤝 I’m looking for help with **Machine Learning Projects**
-- 💬 Ask me about **anything AI related news!**
-- 📫 Reach me at: **eronjacobbuenaflor@gmail.com**
-- ⚡ Fun fact: **I am very locked in with work**
+  - 🔭 **Working on:** Open Source Projects
+  - 🌱 **Learning:** AI, ML, LLM & Advanced Engineering
+  - 👯 **Collaborating:** Potential AI Platforms
+  - 🤝 **Seeking help with:** Machine Learning Development
+  - ⚡ **Mindset:** Heavily "locked in" on high-impact work
 
-<br />
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/eron jacob" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/eron buenaflor" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:eronjacobbuenaflor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+  ### 🌐 Connect with me
+  <p align="left">
+    <a href="https://linkedin.com/in/eronjacob" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/eron_buenaflor" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:eronjacobbuenaflor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
    </td>
     <td width="45%" valign="top">
-      
-### 📊 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eb546&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="eb546 stats" height="160" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eb546&theme=tokyonight&hide_border=true&background=0d1117" alt="eb546 streak" height="160" />
-</div>
+  ## 📊 GitHub Metrics
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=eb546&show_icons=true&theme=transparent&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Eron's Stats" width="100%" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eb546&theme=transparent&hide_border=true&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="Streak Stats" width="100%" />
+  </div>
 
    </td>
   </tr>
@@ -54,43 +44,42 @@
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+## 🛠 Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="matlab" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="bash" />
+</p>
+
+### 🤖 AI, ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="numpy" />
+</p>
+
+### 🌐 Frameworks & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma" />
+</p>
+
+---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eb546&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="eb546 top langs" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eb546&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=4A90E2&text_color=ffffff" alt="Top Languages" />
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
