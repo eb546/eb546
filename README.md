@@ -1,7 +1,7 @@
 <!-- ANIMATED TYPING HEADER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=💻+Eron+Jacob;⚡+Electronic+%26+Computer+Engineer;🤖+AI+%26+ML+Specialist;🚀+Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eron+Jacob;Electronic+%26+Computer+Engineer;AI+%26+Machine+Learning+Specialist;Open+Source+Contributor;Always+Learning+New+Tech;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,8 +36,8 @@
 <div align="center">
   <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhtYzQ3ZG5kMTlxcG42dHhra2N4d2Q4YjVtYzh5emYzb3c4djhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
   
-  - 🔭 I’m currently working on **an Open Source Project**
-  - 🌱 I’m currently learning **Advanced LLMs, AI, ML and Web-Dev Concepts**
+  - 🔭 I’m currently working on **an Open Source AI Project**
+  - 🌱 I’m currently learning **Advanced LLMs, MLOps, and Cloud Engineering**
   - 👯 I’m looking to collaborate on **a potential Money-Making AI Platform**
   - 🤝 I’m looking for help with **developing a Machine Learning Project**
   - 💬 Ask me about **Embedded Systems, AI, and Electronics**
