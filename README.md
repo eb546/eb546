@@ -1,23 +1,31 @@
 <div align="center">
 
-  <!-- Profile Views -->
+  <!-- Profile Views & Followers -->
   <img src="https://komarev.com/ghpvc/?username=eb546&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/eb546?label=Follow&color=00b4d8&style=flat-square" alt="GitHub Followers" />
   
   <br/><br/>
   
   <!-- Avatar -->
-  <img src="https://github.com/eb546.png" width="180" style="border-radius:50%; border: 5px solid #00b4d8;" alt="Eron Jacob" />
+  <img src="https://github.com/eb546.png?size=200" alt="Eron Jacob" style="border-radius:50%; border: 6px solid #00b4d8; box-shadow: 0 0 20px #00b4d8;" />
 
   <br/><br/>
 
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=Eron%20Jacob&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20%26%20Computer%20Engineer%20%7C%20AI%20Specialist&descAlignY=62&descAlign=50" width="100%" />
+  <!-- Creative Waving Header with Twinkling Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=Eron%20Jacob&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Electronic%20%26%20Computer%20Engineer%20%7C%20AI%20Specialist&descAlignY=62&descAlign=50" width="100%" />
+
+</div>
+
+<!-- Floating AI/Coding GIF on the right -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/robot.gif" alt="AI Robot Coding" align="right" width="380" />
+
+<div align="center">
 
   <br/>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+Open+Source+Projects;Passionate+about+AI%2C+ML%2C+and+LLMs;Focused+on+Engineering+Excellence;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+Open+Source+Projects;Passionate+about+AI%2C+ML%2C+and+LLMs;Focused+on+Engineering+Excellence;Always+Exploring+Cutting-Edge+Tech" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -36,9 +44,11 @@
   <br/><br/>
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=eb546&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eb546&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 </div>
+
+<br clear="right"/>
 
 ---
 
@@ -60,9 +70,9 @@
 
 ### 📊 GitHub Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eb546&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eb546&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" width="100%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb546&layout=donut&theme=tokyonight&hide_border=true&title_color=00b4d8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb546&layout=donut&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff" width="100%" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eb546&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="100%" />
 </div>
@@ -76,19 +86,24 @@
 <h3 align="center">🛠 Tech Stack & Expertise</h3>
 
 <p align="center">
-  <strong>Languages</strong><br/>
+  <strong>Programming Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,matlab,bash" /><br/><br/>
   
-  <strong>AI/ML Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikitlearn,opencv" /><br/><br/>
+  <strong>AI/ML & Computer Vision</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikitlearn,opencv,huggingface" /><br/><br/>
   
   <strong>Tools & Platforms</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,aws,firebase,docker,figma,vscode,huggingface" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,aws,firebase,docker,figma,vscode" />
 </p>
 
 ---
 
-<!-- Bottom Waving -->
 <div align="center">
+  <!-- Inspirational Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" alt="Random Dev Quote" />
+  
+  <br/><br/>
+
+  <!-- Bottom Waving Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=footer" />
 </div>
