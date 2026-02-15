@@ -36,8 +36,8 @@
 <div align="center">
   <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhtYzQ3ZG5kMTlxcG42dHhra2N4d2Q4YjVtYzh5emYzb3c4djhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
   
-  - 🔭 I’m currently working on **an Open Source AI Project**
-  - 🌱 I’m currently learning **Advanced LLMs, MLOps, and Cloud Engineering**
+  - 🔭 I’m currently working on **an Open Source Project**
+  - 🌱 I’m currently learning **Advanced LLMs, AI, ML and Web-Dev Concepts**
   - 👯 I’m looking to collaborate on **a potential Money-Making AI Platform**
   - 🤝 I’m looking for help with **developing a Machine Learning Project**
   - 💬 Ask me about **Embedded Systems, AI, and Electronics**
