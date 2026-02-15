@@ -13,14 +13,14 @@
 
   <br/>
 
-  <!-- Animated Waving Header (twinkling for extra flair) -->
+  <!-- Animated Waving Header -->
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Building%20the%20Future%20with%20AI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 
 </div>
 
-<!-- Dynamic Side GIFs (popular, reliable, and highly used in top creative profiles) -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Vibes" align="left" width="420" />
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Intense Coding" align="right" width="420" />
+<!-- AI-Themed Side Animations -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Intense Coding Session" align="left" width="420" />
+<img src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif" alt="Neural Network Pulse" align="right" width="420" />
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-  <!-- Activity Graph (popular addition in 2025 creative profiles) -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eb546&theme=tokyonight&hide_border=true&line=00b4d8&point=00b4d8" width="80%" />
 
   <br/><br/>
