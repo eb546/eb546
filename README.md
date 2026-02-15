@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
   <br/>
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDljZHc1b3V0enk2bnUwc2t4YmpzYXFzZ2JwYmI3Mm85cnBkMXl6bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="600" alt="AI Tech Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="AI Tech Animation" />
 </div>
 
 <!-- SOCIAL BADGES (with your correct links) -->
