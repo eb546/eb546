@@ -5,19 +5,15 @@
   <img src="https://img.shields.io/github/followers/eb546?label=Follow&color=00b4d8&style=flat-square" alt="GitHub Followers" />
   
   <br/><br/>
-  
-  <!-- Avatar -->
-  <img src="https://github.com/eb546.png?size=200" alt="Eron Jacob" style="border-radius:50%; border: 6px solid #00b4d8; box-shadow: 0 0 20px #00b4d8;" />
-
-  <br/><br/>
 
   <!-- Creative Waving Header with Twinkling Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=Eron%20Jacob&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Electronic%20%26%20Computer%20Engineer%20%7C%20AI%20Specialist&descAlignY=62&descAlign=50" width="100%" />
 
 </div>
 
-<!-- Floating AI/Coding GIF on the right -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/robot.gif" alt="AI Robot Coding" align="right" width="380" />
+<!-- Attractive side GIFs inspired by popular GitHub community styles (from Cool-GIFs-For-GitHub repo) -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/developer-activity.gif" alt="Developer Activity" align="left" width="380" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/robot.gif" alt="AI Robot" align="right" width="380" />
 
 <div align="center">
 
@@ -48,7 +44,7 @@
 
 </div>
 
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
