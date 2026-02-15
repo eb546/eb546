@@ -18,9 +18,9 @@
 
 </div>
 
-<!-- AI-Themed Side Animations -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Intense Coding Session" align="left" width="420" />
-<img src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif" alt="Neural Network Pulse" align="right" width="420" />
+<!-- AI-Themed Side Animations (100% reliable sources - no fetching errors) -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Intense Developer Coding" align="left" width="420" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*2pDfmww4aoUr4iOELEIcag.gif" alt="Cute AI Robot Coding" align="right" width="420" />
 
 <div align="center">
 
@@ -31,11 +31,20 @@
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Connect with Me - Enhanced Social Badges -->
   <h3>Connect with me:</h3>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eron-jacob-buenaflor-37a4a02bb)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eronjacobbuenaflor@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eron_buenaflor)
+  <a href="https://github.com/eb546" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/eron-jacob-buenaflor-37a4a02bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eronjacobbuenaflor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/eron_buenaflor" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
   <br/><br/>
 
