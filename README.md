@@ -6,10 +6,9 @@
 </div>
 
 <!-- 4K-STYLE BANNER GIF (Replace with your own if you want) -->
+<!-- 4K STYLE BANNER GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="banner" />
-  <br/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="AI Tech Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="4K Tech Banner" />
 </div>
 
 <!-- SOCIAL BADGES (with your correct links) -->
