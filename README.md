@@ -11,9 +11,9 @@
 
 </div>
 
-<!-- Attractive side GIFs inspired by popular GitHub community styles (from Cool-GIFs-For-GitHub repo) -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/developer-activity.gif" alt="Developer Activity" align="left" width="380" />
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/robot.gif" alt="AI Robot" align="right" width="380" />
+<!-- Reliable, high-quality animated GIFs (both verified to load perfectly on GitHub) -->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Coding" align="left" width="400" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Intense Hacker Coding" align="right" width="400" />
 
 <div align="center">
 
